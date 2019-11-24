@@ -98,4 +98,6 @@ theme: tomotoes
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: 
+    github: git@github.com:qingshanyuluo2000/qingshanyuluo2000.github.io.git
