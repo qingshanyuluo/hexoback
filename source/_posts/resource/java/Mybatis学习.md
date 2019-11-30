@@ -5,7 +5,7 @@ tag:
     - mybatis
     - java
     - Dao
-category: 后端框架
+category: java
 ---
 ## Resources.getResourceAsStream(resource)源码探究:
 

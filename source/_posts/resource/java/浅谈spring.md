@@ -4,7 +4,7 @@ abbrlink: 16104
 tag: 
     - spring
     - java
-category: 后端框架
+category: java
 ---
 
 ## 老生长谈 IOC
