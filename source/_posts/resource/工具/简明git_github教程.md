@@ -1,6 +1,6 @@
 ---
 title: 简明git github 教程
-abbrlink: 16104
+abbrlink: 16105324
 tag: 
     - git
 category: 工具

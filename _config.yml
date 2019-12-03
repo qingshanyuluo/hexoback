@@ -19,7 +19,7 @@ timezone:
 # permalink_defaults:
 # pretty_urls:
 #   trailing_index: true # Set to false to remove trailing index.html from permalinks
-url: http://lennon.xyz/
+url: http://papa.lennon.xyz/
 root: /
 permalink: /posts/:abbrlink/  # **一定要配置好这里，非常重要**
 permalink_defaults:

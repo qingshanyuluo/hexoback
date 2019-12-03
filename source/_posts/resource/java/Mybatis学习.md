@@ -1,6 +1,6 @@
 ---
 title: Mybatis学习
-abbrlink: 16108
+abbrlink: 16108532
 tag: 
     - mybatis
     - java

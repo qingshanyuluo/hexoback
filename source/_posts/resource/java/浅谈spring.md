@@ -1,6 +1,6 @@
 ---
 title: 浅谈spring
-abbrlink: 16104
+abbrlink: 16104523
 tag: 
     - spring
     - java
