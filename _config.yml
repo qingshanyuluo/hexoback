@@ -101,4 +101,4 @@ deploy:
   type: git
   repo:
     github: git@github.com:qingshanyuluo/qingshanyuluo.github.io.git
-
+  delete: false
